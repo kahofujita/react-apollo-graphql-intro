@@ -1,2 +1,2 @@
-# react-apollo-graphql-wmdd-4998-jan-2023
+# react-apollo-graphql-intro
 Intro to GraphQL using Apollo server and React
